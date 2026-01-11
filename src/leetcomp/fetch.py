@@ -6,7 +6,7 @@ import shutil
 
 import httpx
 
-from leetcomp import POSTS_FILE, TEMP_FILE
+from leetcomp import DATA_DIR, POSTS_FILE, TEMP_FILE
 
 
 LEETCODE_GRAPHQL_URL = "https://leetcode.com/graphql/"
@@ -115,7 +115,6 @@ def save_posts(posts: list[dict], file_path: str) -> None:
 def prepend_to_posts(temp_file: str, posts_file: str) -> None:
     if not os.path.exists(temp_file):
         return
-
     if not os.path.exists(posts_file):
         shutil.move(temp_file, posts_file)
         return
@@ -132,9 +131,8 @@ def prepend_to_posts(temp_file: str, posts_file: str) -> None:
 async def fetch_posts_in_bulk(
     n: int = 3000, till_id: int | None = None, sleep_seconds: float = SLEEP_PER_BATCH
 ):
-    if not os.path.exists("data"):
-        os.mkdir("data")
-
+    if not os.path.exists(DATA_DIR):
+        os.mkdir(DATA_DIR)
     if os.path.exists(TEMP_FILE):
         os.remove(TEMP_FILE)
 
