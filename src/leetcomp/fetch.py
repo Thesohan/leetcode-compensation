@@ -6,7 +6,7 @@ import shutil
 
 import httpx
 
-from leetcomp import POSTS_FILE, TEMP_FILE
+from leetcomp import DATA_DIR, POSTS_FILE, TEMP_FILE
 
 
 LEETCODE_GRAPHQL_URL = "https://leetcode.com/graphql/"
@@ -50,7 +50,7 @@ def fetch_recent_posts(skip: int = SKIP, first: int = FIRST) -> list[dict]:
     return nodes
 
 
-def filter_posts(posts: list[dict], till_id: int | None) -> tuple[list[dict], bool]:
+def filter_posts(posts: list[dict], till_id: int | None, till_timestamp: str | None) -> tuple[list[dict], bool]:
     def get_votes_count(reactions: list[dict], reaction_type):
         return next(
             (
@@ -63,7 +63,14 @@ def filter_posts(posts: list[dict], till_id: int | None) -> tuple[list[dict], bo
 
     filtered_posts, found_till_id = [], False
     for post in posts:
+        # Stop if we found the exact post ID
         if till_id and post["topic"]["id"] == till_id:
+            found_till_id = True
+            break
+
+        # Stop if we passed the timestamp (posts are ordered by most recent first)
+        # This is a fallback in case the till_id post was deleted
+        if till_timestamp and post["createdAt"] < till_timestamp:
             found_till_id = True
             break
 
@@ -115,7 +122,6 @@ def save_posts(posts: list[dict], file_path: str) -> None:
 def prepend_to_posts(temp_file: str, posts_file: str) -> None:
     if not os.path.exists(temp_file):
         return
-
     if not os.path.exists(posts_file):
         shutil.move(temp_file, posts_file)
         return
@@ -130,11 +136,10 @@ def prepend_to_posts(temp_file: str, posts_file: str) -> None:
 
 
 async def fetch_posts_in_bulk(
-    n: int = 3000, till_id: int | None = None, sleep_seconds: float = SLEEP_PER_BATCH
+    n: int = 3000, till_id: int | None = None, till_timestamp: str | None = None, sleep_seconds: float = SLEEP_PER_BATCH,
 ):
-    if not os.path.exists("data"):
-        os.mkdir("data")
-
+    if not os.path.exists(DATA_DIR):
+        os.mkdir(DATA_DIR)
     if os.path.exists(TEMP_FILE):
         os.remove(TEMP_FILE)
 
@@ -147,7 +152,7 @@ async def fetch_posts_in_bulk(
             if posts_not_found_counter > 1:
                 print("Exiting; likely exhaused...")
                 break
-        posts, found_till_id = filter_posts(posts, till_id)
+        posts, found_till_id = filter_posts(posts, till_id, till_timestamp)
         await enrich_posts(posts)
         save_posts(posts, file_path=TEMP_FILE)
 
