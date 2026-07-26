@@ -71,6 +71,9 @@ def transform_record(rec: dict, entity_map: dict[str, dict[str, str]]) -> dict:
     )
 
     yoe = rec.get("yoe")
+    if isinstance(yoe, (int, float)) and not isinstance(yoe, bool):
+        yoe = round(yoe, 1)
+
     base = rec.get("base")
     total = rec.get("total") or rec.get("total-calculated")
 

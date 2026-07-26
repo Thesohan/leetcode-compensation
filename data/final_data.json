@@ -15,7 +15,7 @@
     "location": "Hyderabad",
     "company": "Amazon",
     "role": "SDE 2",
-    "yoe": 3.4167,
+    "yoe": 3.4,
     "base": 43,
     "total": 64
   },
@@ -75,7 +75,7 @@
     "location": "",
     "company": "SPAN.IO",
     "role": "N/A",
-    "yoe": 1.6667,
+    "yoe": 1.7,
     "base": 30,
     "total": 30
   },
@@ -325,7 +325,7 @@
     "location": "Bengaluru",
     "company": "Salesforce",
     "role": "MTS",
-    "yoe": 2.42,
+    "yoe": 2.4,
     "base": 27.4,
     "total": 41.4
   },
@@ -465,7 +465,7 @@
     "location": "Bengaluru",
     "company": "Omnissa",
     "role": "MTS 2",
-    "yoe": 1.92,
+    "yoe": 1.9,
     "base": 26,
     "total": 31.5043
   },
@@ -475,7 +475,7 @@
     "location": "Gurugram",
     "company": "Spring Financial",
     "role": "SDE 2",
-    "yoe": 1.92,
+    "yoe": 1.9,
     "base": 27,
     "total": null
   },
@@ -485,7 +485,7 @@
     "location": "Bengaluru",
     "company": "Spotnana",
     "role": "SDE",
-    "yoe": 1.92,
+    "yoe": 1.9,
     "base": 25,
     "total": 27.5
   },
@@ -1165,7 +1165,7 @@
     "location": "",
     "company": "Infosys",
     "role": "Specialist Programmer L2",
-    "yoe": 2.75,
+    "yoe": 2.8,
     "base": 13.6,
     "total": 16
   },
@@ -1325,7 +1325,7 @@
     "location": "Bengaluru",
     "company": "JPMorgan Chase",
     "role": "SSE",
-    "yoe": 3.75,
+    "yoe": 3.8,
     "base": 40,
     "total": 40
   },
@@ -1815,7 +1815,7 @@
     "location": "Bengaluru",
     "company": "Flipkart",
     "role": "SDE 2",
-    "yoe": 2.92,
+    "yoe": 2.9,
     "base": 33,
     "total": 40.22
   },
@@ -1825,7 +1825,7 @@
     "location": "Bengaluru",
     "company": "Salesforce",
     "role": "MTS",
-    "yoe": 2.92,
+    "yoe": 2.9,
     "base": 27.4,
     "total": 41.4
   },
@@ -1875,7 +1875,7 @@
     "location": "Bengaluru",
     "company": "Postman",
     "role": "SDE",
-    "yoe": 3.75,
+    "yoe": 3.8,
     "base": 52.0,
     "total": 62.4
   },
@@ -1905,7 +1905,7 @@
     "location": "Hyderabad",
     "company": "Amazon",
     "role": "SDE 2",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 42.0,
     "total": 64.0
   },
@@ -2345,7 +2345,7 @@
     "location": "Bengaluru",
     "company": "SAP Labs",
     "role": "Consultant",
-    "yoe": 4.83,
+    "yoe": 4.8,
     "base": 18.9,
     "total": 21.0
   },
@@ -2395,7 +2395,7 @@
     "location": "Bengaluru",
     "company": "Veeam Software",
     "role": "SSE",
-    "yoe": 5.75,
+    "yoe": 5.8,
     "base": 42.27,
     "total": 51.0
   },
@@ -2455,7 +2455,7 @@
     "location": "Bengaluru",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 1.58,
+    "yoe": 1.6,
     "base": 19.17,
     "total": 26.4
   },
@@ -2505,7 +2505,7 @@
     "location": "",
     "company": "JPMorgan Chase",
     "role": "SDE 2",
-    "yoe": 2.75,
+    "yoe": 2.8,
     "base": 29.0,
     "total": 39.0
   },
@@ -2525,7 +2525,7 @@
     "location": "Noida",
     "company": "Cadence",
     "role": "SSE",
-    "yoe": 2.83,
+    "yoe": 2.8,
     "base": 24.0,
     "total": 26.4
   },
@@ -2535,7 +2535,7 @@
     "location": "Hyderabad",
     "company": "Qualcomm",
     "role": "SDE",
-    "yoe": 2.83,
+    "yoe": 2.8,
     "base": 24.5,
     "total": 31.83
   },
@@ -2985,7 +2985,7 @@
     "location": "",
     "company": "Amazon",
     "role": "SDE 2",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 42.0,
     "total": 51.38
   },
@@ -3005,7 +3005,7 @@
     "location": "Bengaluru",
     "company": "Inito",
     "role": "SSE",
-    "yoe": 6.75,
+    "yoe": 6.8,
     "base": 55.0,
     "total": 60.0
   },
@@ -3015,7 +3015,7 @@
     "location": "Gurugram",
     "company": "MongoDB",
     "role": "SSE",
-    "yoe": 6.75,
+    "yoe": 6.8,
     "base": 46.0,
     "total": 64.79
   },
@@ -3025,7 +3025,7 @@
     "location": "Hyderabad",
     "company": "Microsoft",
     "role": "SSE",
-    "yoe": 6.75,
+    "yoe": 6.8,
     "base": 42.0,
     "total": 69.16
   },
@@ -3265,7 +3265,7 @@
     "location": "",
     "company": "AMD",
     "role": "Senior Software System Designer",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 29.0,
     "total": 44.35
   },
@@ -3315,7 +3315,7 @@
     "location": "",
     "company": "Microsoft",
     "role": "SSE",
-    "yoe": 7.75,
+    "yoe": 7.8,
     "base": 38,
     "total": 65.8
   },
@@ -3345,7 +3345,7 @@
     "location": "Hyderabad",
     "company": "Salesforce",
     "role": "SMTS",
-    "yoe": 5.67,
+    "yoe": 5.7,
     "base": 48,
     "total": 72
   },
@@ -3365,7 +3365,7 @@
     "location": "Hyderabad",
     "company": "Microsoft",
     "role": "SSE",
-    "yoe": 6.75,
+    "yoe": 6.8,
     "base": 42,
     "total": 58.2
   },
@@ -3375,7 +3375,7 @@
     "location": "Bengaluru",
     "company": "PhonePe",
     "role": "SDE",
-    "yoe": 6.75,
+    "yoe": 6.8,
     "base": 45,
     "total": 94
   },
@@ -3785,7 +3785,7 @@
     "location": "",
     "company": "Qualcomm",
     "role": "SDE",
-    "yoe": 1.67,
+    "yoe": 1.7,
     "base": 23,
     "total": 40.4
   },
@@ -3925,7 +3925,7 @@
     "location": "Bengaluru",
     "company": "Microsoft",
     "role": "SDE 2",
-    "yoe": 3.67,
+    "yoe": 3.7,
     "base": 30.6,
     "total": 53.06
   },
@@ -3935,7 +3935,7 @@
     "location": "Hyderabad",
     "company": "Amazon",
     "role": "SDE 2",
-    "yoe": 3.67,
+    "yoe": 3.7,
     "base": 45.75,
     "total": 65.32
   },
@@ -3945,7 +3945,7 @@
     "location": "Remote",
     "company": "Airbnb",
     "role": "SDE 1",
-    "yoe": 2.83,
+    "yoe": 2.8,
     "base": 24,
     "total": 45.21
   },
@@ -4105,7 +4105,7 @@
     "location": "",
     "company": "Salesforce",
     "role": "N/A",
-    "yoe": 4.67,
+    "yoe": 4.7,
     "base": 23.0,
     "total": null
   },
@@ -4155,7 +4155,7 @@
     "location": "Bengaluru",
     "company": "JPMorgan Chase",
     "role": "SSE",
-    "yoe": 6.67,
+    "yoe": 6.7,
     "base": 42.0,
     "total": null
   },
@@ -4265,7 +4265,7 @@
     "location": "",
     "company": "Microsoft",
     "role": "SDE 2",
-    "yoe": 3.67,
+    "yoe": 3.7,
     "base": 31.0,
     "total": 43.0
   },
@@ -4385,7 +4385,7 @@
     "location": "Hyderabad",
     "company": "Amazon",
     "role": "SDE 2",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 19.2,
     "total": null
   },
@@ -4695,7 +4695,7 @@
     "location": "Pune",
     "company": "AppDirect",
     "role": "SSE",
-    "yoe": 5.58,
+    "yoe": 5.6,
     "base": 42,
     "total": 46.2
   },
@@ -5085,7 +5085,7 @@
     "location": "Hyderabad",
     "company": "Oracle",
     "role": "SDE 1",
-    "yoe": 0.33,
+    "yoe": 0.3,
     "base": 18.68,
     "total": 35.96
   },
@@ -5245,7 +5245,7 @@
     "location": "Bengaluru",
     "company": "Groww",
     "role": "SDE 2",
-    "yoe": 4.25,
+    "yoe": 4.2,
     "base": 38,
     "total": 54.75
   },
@@ -5365,7 +5365,7 @@
     "location": "Bengaluru",
     "company": "HackerRank",
     "role": "SDE 2",
-    "yoe": 4.25,
+    "yoe": 4.2,
     "base": 46,
     "total": 57
   },
@@ -6495,7 +6495,7 @@
     "location": "Bengaluru",
     "company": "Amazon",
     "role": "SDE 2",
-    "yoe": 3.42,
+    "yoe": 3.4,
     "base": 44,
     "total": 65.5
   },
@@ -6505,7 +6505,7 @@
     "location": "Bengaluru",
     "company": "Nutanix",
     "role": "MTS 1",
-    "yoe": 1.25,
+    "yoe": 1.2,
     "base": 25,
     "total": 27.5
   },
@@ -6545,7 +6545,7 @@
     "location": "Hyderabad",
     "company": "JPMorgan Chase",
     "role": "SDE 2",
-    "yoe": 3.33,
+    "yoe": 3.3,
     "base": 25,
     "total": null
   },
@@ -6745,7 +6745,7 @@
     "location": "Bengaluru",
     "company": "Apple",
     "role": "SSE",
-    "yoe": 5.33,
+    "yoe": 5.3,
     "base": 45,
     "total": 91.375
   },
@@ -6815,7 +6815,7 @@
     "location": "Mumbai",
     "company": "JPMorgan Chase",
     "role": "SDE 2",
-    "yoe": 4.75,
+    "yoe": 4.8,
     "base": 29,
     "total": 33
   },
@@ -6825,7 +6825,7 @@
     "location": "Pune",
     "company": "Mastercard",
     "role": "SDE 3",
-    "yoe": 4.75,
+    "yoe": 4.8,
     "base": 30,
     "total": 33
   },
@@ -7325,7 +7325,7 @@
     "location": "Bengaluru",
     "company": "Samsung",
     "role": "Lead Engineer",
-    "yoe": 3.42,
+    "yoe": 3.4,
     "base": 27.1,
     "total": 37.4
   },
@@ -7355,7 +7355,7 @@
     "location": "Bengaluru",
     "company": "Oracle",
     "role": "SDE 2",
-    "yoe": 2.17,
+    "yoe": 2.2,
     "base": 25,
     "total": 37
   },
@@ -7475,7 +7475,7 @@
     "location": "",
     "company": "Oracle",
     "role": "SDE 1",
-    "yoe": 0.42,
+    "yoe": 0.4,
     "base": 20.2,
     "total": 65.7
   },
@@ -7485,7 +7485,7 @@
     "location": "",
     "company": "MNC",
     "role": "SDE 1",
-    "yoe": 1.33,
+    "yoe": 1.3,
     "base": 19.17,
     "total": 33.71
   },
@@ -7695,7 +7695,7 @@
     "location": "",
     "company": "PhonePe",
     "role": "SDE 1",
-    "yoe": 4.17,
+    "yoe": 4.2,
     "base": 12,
     "total": 27.5
   },
@@ -7705,7 +7705,7 @@
     "location": "",
     "company": "JPMorgan Chase",
     "role": "SDE 3",
-    "yoe": 4.17,
+    "yoe": 4.2,
     "base": 35,
     "total": 40
   },
@@ -8825,7 +8825,7 @@
     "location": "",
     "company": "LinkedIn",
     "role": "ML Engineer",
-    "yoe": 3.42,
+    "yoe": 3.4,
     "base": 45,
     "total": 76.5
   },
@@ -8885,7 +8885,7 @@
     "location": "",
     "company": "Microsoft",
     "role": "SDE 2",
-    "yoe": 4.25,
+    "yoe": 4.2,
     "base": 32,
     "total": null
   },
@@ -8895,7 +8895,7 @@
     "location": "",
     "company": "Amazon",
     "role": "SDE 2",
-    "yoe": 4.25,
+    "yoe": 4.2,
     "base": 44,
     "total": null
   },
@@ -8945,7 +8945,7 @@
     "location": "Bengaluru",
     "company": "Dell Technologies",
     "role": "SDE 1",
-    "yoe": 0.25,
+    "yoe": 0.2,
     "base": 13.12,
     "total": 14.41
   },
@@ -9435,7 +9435,7 @@
     "location": "Hyderabad",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 0.75,
+    "yoe": 0.8,
     "base": 19.17,
     "total": 28
   },
@@ -9455,7 +9455,7 @@
     "location": "Bengaluru",
     "company": "LinkedIn",
     "role": "SDE",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 38,
     "total": 62
   },
@@ -9595,7 +9595,7 @@
     "location": "Bengaluru",
     "company": "LinkedIn",
     "role": "SDE",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 38,
     "total": 62
   },
@@ -10265,7 +10265,7 @@
     "location": "Hyderabad",
     "company": "Microsoft L60",
     "role": "SDE 1",
-    "yoe": 2.17,
+    "yoe": 2.2,
     "base": 22.4,
     "total": 37
   },
@@ -10485,7 +10485,7 @@
     "location": "Hyderabad",
     "company": "Zeta",
     "role": "SDE 2",
-    "yoe": 4.8333,
+    "yoe": 4.8,
     "base": 26,
     "total": 29.625
   },
@@ -10545,7 +10545,7 @@
     "location": "Bengaluru",
     "company": "Slice",
     "role": "SDE 1",
-    "yoe": 1.17,
+    "yoe": 1.2,
     "base": 28,
     "total": 34
   },
@@ -10715,7 +10715,7 @@
     "location": "Bengaluru",
     "company": "JPMorgan Chase",
     "role": "SDE 2",
-    "yoe": 3.33,
+    "yoe": 3.3,
     "base": 29,
     "total": 33
   },
@@ -10725,7 +10725,7 @@
     "location": "Bengaluru",
     "company": "Walmart",
     "role": "SDE 3",
-    "yoe": 3.33,
+    "yoe": 3.3,
     "base": 23.2,
     "total": 33
   },
@@ -10965,7 +10965,7 @@
     "location": "Bengaluru",
     "company": "Startup",
     "role": "SDE 2",
-    "yoe": 2.25,
+    "yoe": 2.2,
     "base": 32,
     "total": 38
   },
@@ -10975,7 +10975,7 @@
     "location": "Bengaluru",
     "company": "New Relic",
     "role": "SDE 2",
-    "yoe": 2.25,
+    "yoe": 2.2,
     "base": 38,
     "total": 40
   },
@@ -11085,7 +11085,7 @@
     "location": "",
     "company": "Juspay",
     "role": "SDE 1",
-    "yoe": 1.17,
+    "yoe": 1.2,
     "base": 20,
     "total": null
   },
@@ -11115,7 +11115,7 @@
     "location": "Bengaluru",
     "company": "Walmart",
     "role": "SSE",
-    "yoe": 3.17,
+    "yoe": 3.2,
     "base": 23,
     "total": 32.5
   },
@@ -11125,7 +11125,7 @@
     "location": "Bengaluru",
     "company": "ServiceNow",
     "role": "SDE 2",
-    "yoe": 3.17,
+    "yoe": 3.2,
     "base": 26,
     "total": 38
   },
@@ -11205,7 +11205,7 @@
     "location": "",
     "company": "JPMorgan Chase",
     "role": "SSE",
-    "yoe": 3.17,
+    "yoe": 3.2,
     "base": 29,
     "total": 29
   },
@@ -11675,7 +11675,7 @@
     "location": "Bengaluru",
     "company": "ShareChat",
     "role": "SDE 2",
-    "yoe": 2.17,
+    "yoe": 2.2,
     "base": 33,
     "total": 50
   },
@@ -11685,7 +11685,7 @@
     "location": "Bengaluru",
     "company": "Zeta",
     "role": "SDE 2",
-    "yoe": 2.17,
+    "yoe": 2.2,
     "base": 32,
     "total": 38
   },
@@ -11975,7 +11975,7 @@
     "location": "Bengaluru",
     "company": "LinkedIn",
     "role": "SDE",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 38,
     "total": 62
   },
@@ -12125,7 +12125,7 @@
     "location": "Hyderabad",
     "company": "Zeta",
     "role": "SDE 2",
-    "yoe": 2.33,
+    "yoe": 2.3,
     "base": 24,
     "total": 27.5
   },
@@ -12275,7 +12275,7 @@
     "location": "Hyderabad",
     "company": "Microsoft",
     "role": "SDE 1",
-    "yoe": 1.17,
+    "yoe": 1.2,
     "base": 21.4,
     "total": 40.5
   },
@@ -12405,7 +12405,7 @@
     "location": "",
     "company": "Cisco",
     "role": "Intern",
-    "yoe": 0.17,
+    "yoe": 0.2,
     "base": 17.5,
     "total": 41.5
   },
@@ -12435,7 +12435,7 @@
     "location": "Bengaluru",
     "company": "LinkedIn",
     "role": "SDE",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 38,
     "total": 62
   },
@@ -12705,7 +12705,7 @@
     "location": "",
     "company": "Morgan Stanley",
     "role": "SDE 1",
-    "yoe": 3.33,
+    "yoe": 3.3,
     "base": 23,
     "total": 26.5
   },
@@ -12715,7 +12715,7 @@
     "location": "",
     "company": "Walmart",
     "role": "SSE",
-    "yoe": 3.33,
+    "yoe": 3.3,
     "base": 22.5,
     "total": 33.7
   },
@@ -12915,7 +12915,7 @@
     "location": "Bengaluru",
     "company": "LinkedIn",
     "role": "SDE",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 38.0,
     "total": 62
   },
@@ -12925,7 +12925,7 @@
     "location": "Bengaluru",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 0.67,
+    "yoe": 0.7,
     "base": 19.17,
     "total": 47.88
   },
@@ -13015,7 +13015,7 @@
     "location": "Bengaluru",
     "company": "LinkedIn",
     "role": "SDE",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 38,
     "total": 62
   },
@@ -13035,7 +13035,7 @@
     "location": "",
     "company": "Arrise Pragmatic Play",
     "role": "SDE 2",
-    "yoe": 3.17,
+    "yoe": 3.2,
     "base": 28,
     "total": 33
   },
@@ -13045,7 +13045,7 @@
     "location": "",
     "company": "JPMorgan Chase",
     "role": "SSE",
-    "yoe": 3.17,
+    "yoe": 3.2,
     "base": 30,
     "total": 36.6
   },
@@ -13105,7 +13105,7 @@
     "location": "",
     "company": "Startup",
     "role": "N/A",
-    "yoe": 1.83,
+    "yoe": 1.8,
     "base": 27,
     "total": 30.6
   },
@@ -13115,7 +13115,7 @@
     "location": "Bengaluru",
     "company": "LinkedIn",
     "role": "SDE",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 38,
     "total": 62.2
   },
@@ -13125,7 +13125,7 @@
     "location": "Bengaluru",
     "company": "Visa",
     "role": "SDET",
-    "yoe": 2.17,
+    "yoe": 2.2,
     "base": 17,
     "total": null
   },
@@ -13245,7 +13245,7 @@
     "location": "",
     "company": "Startup",
     "role": "SDE",
-    "yoe": 3.67,
+    "yoe": 3.7,
     "base": 26,
     "total": null
   },
@@ -13255,7 +13255,7 @@
     "location": "Gurugram",
     "company": "Olx",
     "role": "SDE",
-    "yoe": 3.67,
+    "yoe": 3.7,
     "base": 24,
     "total": null
   },
@@ -13345,7 +13345,7 @@
     "location": "Bengaluru",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 0.04,
+    "yoe": 0.0,
     "base": 19.17,
     "total": 26
   },
@@ -13545,7 +13545,7 @@
     "location": "Bengaluru",
     "company": "Morgan Stanley",
     "role": "Associate",
-    "yoe": 4.83,
+    "yoe": 4.8,
     "base": 28.6,
     "total": 38
   },
@@ -14185,7 +14185,7 @@
     "location": "Bengaluru",
     "company": "Chargebee",
     "role": "SDE 1",
-    "yoe": 1.08,
+    "yoe": 1.1,
     "base": 23,
     "total": null
   },
@@ -14265,7 +14265,7 @@
     "location": "Bengaluru",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 0.92,
+    "yoe": 0.9,
     "base": 19.17,
     "total": 25.5
   },
@@ -14405,7 +14405,7 @@
     "location": "Gurugram",
     "company": "ThoughtWorks",
     "role": "Consultant",
-    "yoe": 3.75,
+    "yoe": 3.8,
     "base": 17,
     "total": 19
   },
@@ -14415,7 +14415,7 @@
     "location": "Bengaluru",
     "company": "SAP Labs",
     "role": "SDE",
-    "yoe": 3.75,
+    "yoe": 3.8,
     "base": 22.5,
     "total": 26.5
   },
@@ -14495,7 +14495,7 @@
     "location": "Bengaluru",
     "company": "Flipkart",
     "role": "SDE 3",
-    "yoe": 4.67,
+    "yoe": 4.7,
     "base": 46.5,
     "total": 60.5
   },
@@ -14685,7 +14685,7 @@
     "location": "",
     "company": "Amazon",
     "role": "N/A",
-    "yoe": 1.83,
+    "yoe": 1.8,
     "base": 19.2,
     "total": 34.45
   },
@@ -14695,7 +14695,7 @@
     "location": "",
     "company": "Goldman Sachs",
     "role": "N/A",
-    "yoe": 1.83,
+    "yoe": 1.8,
     "base": 25,
     "total": 31.5
   },
@@ -15385,7 +15385,7 @@
     "location": "Bengaluru",
     "company": "Nike",
     "role": "SDE 2",
-    "yoe": 2.8333333333,
+    "yoe": 2.8,
     "base": 20.5,
     "total": 25.3
   },
@@ -15395,7 +15395,7 @@
     "location": "Bengaluru",
     "company": "Paytm",
     "role": "SDE",
-    "yoe": 2.8333333333,
+    "yoe": 2.8,
     "base": 22,
     "total": 23
   },
@@ -15635,7 +15635,7 @@
     "location": "Pune",
     "company": "Arista",
     "role": "SDE 2",
-    "yoe": 3.83,
+    "yoe": 3.8,
     "base": 28,
     "total": 44.5
   },
@@ -15785,7 +15785,7 @@
     "location": "",
     "company": "Xpressbees",
     "role": "SDE 3",
-    "yoe": 7.58,
+    "yoe": 7.6,
     "base": 37,
     "total": 40
   },
@@ -15975,7 +15975,7 @@
     "location": "Bengaluru",
     "company": "Amazon",
     "role": "SDE 2",
-    "yoe": 3.83,
+    "yoe": 3.8,
     "base": 43,
     "total": 60
   },
@@ -16075,7 +16075,7 @@
     "location": "",
     "company": "Amazon",
     "role": "SDE",
-    "yoe": 1.92,
+    "yoe": 1.9,
     "base": 10,
     "total": 15
   },
@@ -16085,7 +16085,7 @@
     "location": "Pune",
     "company": "Amazon",
     "role": "SDE 2",
-    "yoe": 6.92,
+    "yoe": 6.9,
     "base": 45,
     "total": 64
   },
@@ -16545,7 +16545,7 @@
     "location": "Bengaluru",
     "company": "Goldman Sachs",
     "role": "Analyst",
-    "yoe": 1.83,
+    "yoe": 1.8,
     "base": 25,
     "total": null
   },
@@ -16825,7 +16825,7 @@
     "location": "Bengaluru",
     "company": "Jp Morgan And Chase Co.",
     "role": "SDE 2",
-    "yoe": 3.83,
+    "yoe": 3.8,
     "base": 29,
     "total": 33
   },
@@ -16965,7 +16965,7 @@
     "location": "",
     "company": "InfoEdge",
     "role": "SSE",
-    "yoe": 1.83,
+    "yoe": 1.8,
     "base": 17,
     "total": 18.5
   },
@@ -17165,7 +17165,7 @@
     "location": "",
     "company": "Visa",
     "role": "SDE",
-    "yoe": 1.25,
+    "yoe": 1.2,
     "base": 16,
     "total": 18.94
   },
@@ -17195,7 +17195,7 @@
     "location": "",
     "company": "Cohesity",
     "role": "MTS 2",
-    "yoe": 2.92,
+    "yoe": 2.9,
     "base": 32.2,
     "total": 36.7
   },
@@ -17205,7 +17205,7 @@
     "location": "",
     "company": "Adobe",
     "role": "MTS 2",
-    "yoe": 2.92,
+    "yoe": 2.9,
     "base": 25,
     "total": 42.8
   },
@@ -17295,7 +17295,7 @@
     "location": "Hyderabad",
     "company": "Motive",
     "role": "SDE 1",
-    "yoe": 1.92,
+    "yoe": 1.9,
     "base": 21,
     "total": 26.84
   },
@@ -17475,7 +17475,7 @@
     "location": "",
     "company": "D. E. Shaw",
     "role": "SDET",
-    "yoe": 1.92,
+    "yoe": 1.9,
     "base": 27,
     "total": null
   },
@@ -17485,7 +17485,7 @@
     "location": "",
     "company": "Startup",
     "role": "N/A",
-    "yoe": 1.92,
+    "yoe": 1.9,
     "base": 25,
     "total": 42
   },
@@ -17495,7 +17495,7 @@
     "location": "",
     "company": "Goldman Sachs",
     "role": "N/A",
-    "yoe": 1.33,
+    "yoe": 1.3,
     "base": 24.5,
     "total": 29.5
   },
@@ -17575,7 +17575,7 @@
     "location": "Bengaluru",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 1.83,
+    "yoe": 1.8,
     "base": 19.17,
     "total": 27.91
   },
@@ -17605,7 +17605,7 @@
     "location": "Bengaluru",
     "company": "PhonePe",
     "role": "SDE",
-    "yoe": 1.83,
+    "yoe": 1.8,
     "base": 22,
     "total": 41.3
   },
@@ -17725,7 +17725,7 @@
     "location": "Bengaluru",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 1.83,
+    "yoe": 1.8,
     "base": 19.17,
     "total": 27.91
   },
@@ -17735,7 +17735,7 @@
     "location": "Gurugram",
     "company": "Expedia",
     "role": "SDE 2",
-    "yoe": 1.83,
+    "yoe": 1.8,
     "base": 25,
     "total": 31.25
   },
@@ -17745,7 +17745,7 @@
     "location": "Bengaluru",
     "company": "Goldman Sachs",
     "role": "Analyst",
-    "yoe": 1.83,
+    "yoe": 1.8,
     "base": 24,
     "total": 30
   },
@@ -17915,7 +17915,7 @@
     "location": "",
     "company": "Cohesity",
     "role": "N/A",
-    "yoe": 1.11,
+    "yoe": 1.1,
     "base": 23.32,
     "total": 35.08
   },
@@ -18005,7 +18005,7 @@
     "location": "Bengaluru",
     "company": "PhonePe",
     "role": "SDE",
-    "yoe": 1.42,
+    "yoe": 1.4,
     "base": 28,
     "total": 38
   },
@@ -18055,7 +18055,7 @@
     "location": "",
     "company": "GoDaddy",
     "role": "SDE 2",
-    "yoe": 4.67,
+    "yoe": 4.7,
     "base": 28.5,
     "total": 42
   },
@@ -18065,7 +18065,7 @@
     "location": "",
     "company": "JPMorgan Chase",
     "role": "SDE 3",
-    "yoe": 4.67,
+    "yoe": 4.7,
     "base": 40,
     "total": 45
   },
@@ -18135,7 +18135,7 @@
     "location": "Bengaluru",
     "company": "Meesho",
     "role": "SDE 1",
-    "yoe": 0.75,
+    "yoe": 0.8,
     "base": 20,
     "total": 20
   },
@@ -18285,7 +18285,7 @@
     "location": "",
     "company": "Flipkart",
     "role": "SDE 2",
-    "yoe": 1.11,
+    "yoe": 1.1,
     "base": 27,
     "total": 30.5
   },
@@ -18295,7 +18295,7 @@
     "location": "Noida",
     "company": "Adobe",
     "role": "MTS 2",
-    "yoe": 2.08,
+    "yoe": 2.1,
     "base": 24,
     "total": null
   },
@@ -18395,7 +18395,7 @@
     "location": "Hyderabad",
     "company": "Google",
     "role": "SDE 2",
-    "yoe": 3.92,
+    "yoe": 3.9,
     "base": 39.1,
     "total": 83.5
   },
@@ -18405,7 +18405,7 @@
     "location": "Bengaluru",
     "company": "Arista Networks",
     "role": "N/A",
-    "yoe": 3.92,
+    "yoe": 3.9,
     "base": 24,
     "total": 33.6
   },
@@ -18415,7 +18415,7 @@
     "location": "Bengaluru",
     "company": "Salesforce",
     "role": "N/A",
-    "yoe": 3.92,
+    "yoe": 3.9,
     "base": 31,
     "total": 46.5
   },
@@ -18425,7 +18425,7 @@
     "location": "Bengaluru",
     "company": "Visa",
     "role": "Data Engineer",
-    "yoe": 1.83,
+    "yoe": 1.8,
     "base": 17,
     "total": 20.9
   },
@@ -18545,7 +18545,7 @@
     "location": "",
     "company": "Microsoft",
     "role": "SDE 2",
-    "yoe": 3.75,
+    "yoe": 3.8,
     "base": 34,
     "total": null
   },
@@ -18705,7 +18705,7 @@
     "location": "",
     "company": "Cohesity",
     "role": "MTS 3",
-    "yoe": 2.08,
+    "yoe": 2.1,
     "base": 37.5,
     "total": 43.5
   },
@@ -18785,7 +18785,7 @@
     "location": "",
     "company": "Cohesity",
     "role": "MTS 2",
-    "yoe": 1.11,
+    "yoe": 1.1,
     "base": 34,
     "total": null
   },
@@ -18795,7 +18795,7 @@
     "location": "",
     "company": "Google",
     "role": "SDE 1",
-    "yoe": 1.11,
+    "yoe": 1.1,
     "base": 25,
     "total": null
   },
@@ -18805,7 +18805,7 @@
     "location": "",
     "company": "Goldman Sachs",
     "role": "Analyst",
-    "yoe": 1.11,
+    "yoe": 1.1,
     "base": 29,
     "total": 52.5
   },
@@ -18855,7 +18855,7 @@
     "location": "",
     "company": "Salesforce",
     "role": "MTS",
-    "yoe": 2.83,
+    "yoe": 2.8,
     "base": 27,
     "total": 39.7
   },
@@ -19045,7 +19045,7 @@
     "location": "Mumbai",
     "company": "JPMorgan Chase",
     "role": "SDE 3",
-    "yoe": 6.83,
+    "yoe": 6.8,
     "base": 39,
     "total": null
   },
@@ -19055,7 +19055,7 @@
     "location": "Bengaluru",
     "company": "JPMorgan Chase",
     "role": "SDE 3",
-    "yoe": 5.92,
+    "yoe": 5.9,
     "base": 33,
     "total": null
   },
@@ -19215,7 +19215,7 @@
     "location": "Hyderabad",
     "company": "Amazon",
     "role": "SDE 2",
-    "yoe": 3.58,
+    "yoe": 3.6,
     "base": 45,
     "total": 66
   },
@@ -19245,7 +19245,7 @@
     "location": "Bengaluru",
     "company": "Goldman Sachs",
     "role": "Analyst",
-    "yoe": 1.67,
+    "yoe": 1.7,
     "base": 21,
     "total": 25
   },
@@ -19275,7 +19275,7 @@
     "location": "Bengaluru",
     "company": "Juspay",
     "role": "SDE 1",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 11,
     "total": 13
   },
@@ -19355,7 +19355,7 @@
     "location": "",
     "company": "Goldman Sachs",
     "role": "Associate",
-    "yoe": 2.75,
+    "yoe": 2.8,
     "base": 36,
     "total": 47.5
   },
@@ -19755,7 +19755,7 @@
     "location": "",
     "company": "Walmart",
     "role": "SSE",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 21,
     "total": 35.45
   },
@@ -19775,7 +19775,7 @@
     "location": "Bengaluru",
     "company": "Google",
     "role": "SDE 2",
-    "yoe": 1.11,
+    "yoe": 1.1,
     "base": 24,
     "total": 45.29
   },
@@ -19785,7 +19785,7 @@
     "location": "Bengaluru",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 0.92,
+    "yoe": 0.9,
     "base": 19.17,
     "total": 46.38
   },
@@ -19845,7 +19845,7 @@
     "location": "",
     "company": "Oracle",
     "role": "SMTS",
-    "yoe": 4.58,
+    "yoe": 4.6,
     "base": 33,
     "total": 43
   },
@@ -19985,7 +19985,7 @@
     "location": "Bengaluru",
     "company": "Applied Materials",
     "role": "Lead Engineer",
-    "yoe": 5.83,
+    "yoe": 5.8,
     "base": 25.1,
     "total": 29.61
   },
@@ -19995,7 +19995,7 @@
     "location": "Bengaluru",
     "company": "Servicemax",
     "role": "SSE",
-    "yoe": 5.83,
+    "yoe": 5.8,
     "base": 25.2,
     "total": 27.09
   },
@@ -20055,7 +20055,7 @@
     "location": "Remote",
     "company": "Advisor360",
     "role": "SDE 2",
-    "yoe": 2.33,
+    "yoe": 2.3,
     "base": 24,
     "total": 29
   },
@@ -20175,7 +20175,7 @@
     "location": "Bengaluru",
     "company": "6Sense",
     "role": "SDE 3",
-    "yoe": 3.92,
+    "yoe": 3.9,
     "base": 41,
     "total": 52
   },
@@ -20185,7 +20185,7 @@
     "location": "Bengaluru",
     "company": "Harness",
     "role": "SSE",
-    "yoe": 3.92,
+    "yoe": 3.9,
     "base": 40,
     "total": null
   },
@@ -20225,7 +20225,7 @@
     "location": "Bengaluru",
     "company": "Tekion",
     "role": "SSE",
-    "yoe": 5.83,
+    "yoe": 5.8,
     "base": 50,
     "total": 52
   },
@@ -20255,7 +20255,7 @@
     "location": "Bengaluru",
     "company": "Swiggy",
     "role": "SDE 1",
-    "yoe": 1.25,
+    "yoe": 1.2,
     "base": 26,
     "total": 35
   },
@@ -20265,7 +20265,7 @@
     "location": "Bengaluru",
     "company": "ShareChat",
     "role": "SDE 1",
-    "yoe": 1.42,
+    "yoe": 1.4,
     "base": 27.5,
     "total": 40
   },
@@ -20645,7 +20645,7 @@
     "location": "Bengaluru",
     "company": "Uber",
     "role": "SDE 1",
-    "yoe": 1.67,
+    "yoe": 1.7,
     "base": 26.04,
     "total": 34.04
   },
@@ -20775,7 +20775,7 @@
     "location": "Pune",
     "company": "Amazon",
     "role": "SDE",
-    "yoe": 0.58,
+    "yoe": 0.6,
     "base": 19.17,
     "total": 47.88
   },
@@ -20795,7 +20795,7 @@
     "location": "",
     "company": "Avalara",
     "role": "N/A",
-    "yoe": 3.75,
+    "yoe": 3.8,
     "base": 36,
     "total": 43.1
   },
@@ -20825,7 +20825,7 @@
     "location": "Mumbai",
     "company": "BlackRock",
     "role": "Associate",
-    "yoe": 4.17,
+    "yoe": 4.2,
     "base": 40,
     "total": 50
   },
@@ -20875,7 +20875,7 @@
     "location": "",
     "company": "Oracle",
     "role": "SDE",
-    "yoe": 1.75,
+    "yoe": 1.8,
     "base": 21,
     "total": 21.0
   },
@@ -20885,7 +20885,7 @@
     "location": "",
     "company": "Visa",
     "role": "SDE",
-    "yoe": 1.75,
+    "yoe": 1.8,
     "base": 17,
     "total": 21.0
   },
@@ -20925,7 +20925,7 @@
     "location": "",
     "company": "LinkedIn",
     "role": "SDE",
-    "yoe": 3.8333333333333335,
+    "yoe": 3.8,
     "base": 39,
     "total": 59
   },
@@ -20955,7 +20955,7 @@
     "location": "Bengaluru",
     "company": "Walmart",
     "role": "SDE 3",
-    "yoe": 3.11,
+    "yoe": 3.1,
     "base": 24.1,
     "total": 29.7
   },
@@ -20965,7 +20965,7 @@
     "location": "Bengaluru",
     "company": "Gracenote Nielsen",
     "role": "SSE",
-    "yoe": 3.11,
+    "yoe": 3.1,
     "base": 30,
     "total": 33
   },
@@ -20975,7 +20975,7 @@
     "location": "Remote",
     "company": "Genea",
     "role": "SSE",
-    "yoe": 3.11,
+    "yoe": 3.1,
     "base": 28,
     "total": 29.7
   },
@@ -21035,7 +21035,7 @@
     "location": "Bengaluru",
     "company": "Google",
     "role": "SDE 2",
-    "yoe": 2.83,
+    "yoe": 2.8,
     "base": 39,
     "total": 84
   },
@@ -21075,7 +21075,7 @@
     "location": "",
     "company": "Wio Bank",
     "role": "SDE",
-    "yoe": 0.8333,
+    "yoe": 0.8,
     "base": 24,
     "total": null
   },
@@ -21195,7 +21195,7 @@
     "location": "Bengaluru",
     "company": "Walmart",
     "role": "SSE",
-    "yoe": 2.92,
+    "yoe": 2.9,
     "base": 23,
     "total": 34.45
   },
@@ -21235,7 +21235,7 @@
     "location": "Bengaluru",
     "company": "Walmart",
     "role": "SSE",
-    "yoe": 2.25,
+    "yoe": 2.2,
     "base": 15,
     "total": 22.47
   },
@@ -21265,7 +21265,7 @@
     "location": "",
     "company": "PayPal",
     "role": "SDE 3",
-    "yoe": 4.25,
+    "yoe": 4.2,
     "base": 30,
     "total": 46
   },
@@ -21275,7 +21275,7 @@
     "location": "",
     "company": "Freshworks",
     "role": "SSE",
-    "yoe": 4.25,
+    "yoe": 4.2,
     "base": 27,
     "total": 27
   },
@@ -21475,7 +21475,7 @@
     "location": "Hyderabad",
     "company": "Amazon",
     "role": "SDE 2",
-    "yoe": 3.8333333333333335,
+    "yoe": 3.8,
     "base": 45.3,
     "total": 66.5
   },
@@ -21615,7 +21615,7 @@
     "location": "Pune",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 1.83,
+    "yoe": 1.8,
     "base": 19.17,
     "total": 27.5
   },
@@ -21625,7 +21625,7 @@
     "location": "Bengaluru",
     "company": "Fractal",
     "role": "SDE",
-    "yoe": 1.83,
+    "yoe": 1.8,
     "base": 27.27,
     "total": 30
   },
@@ -21675,7 +21675,7 @@
     "location": "",
     "company": "Blinkit",
     "role": "N/A",
-    "yoe": 2.83,
+    "yoe": 2.8,
     "base": 36,
     "total": 46
   },
@@ -21775,7 +21775,7 @@
     "location": "Bengaluru",
     "company": "Bt Group",
     "role": "SDE",
-    "yoe": 3.17,
+    "yoe": 3.2,
     "base": 9.0,
     "total": 11.33
   },
@@ -21815,7 +21815,7 @@
     "location": "Bengaluru",
     "company": "Progress",
     "role": "SDE 2",
-    "yoe": 4.75,
+    "yoe": 4.8,
     "base": 20,
     "total": 21
   },
@@ -21825,7 +21825,7 @@
     "location": "",
     "company": "ServiceNow",
     "role": "SDE 2",
-    "yoe": 2.83,
+    "yoe": 2.8,
     "base": 27,
     "total": 31.7
   },
@@ -22015,7 +22015,7 @@
     "location": "Bengaluru",
     "company": "Google",
     "role": "SSE",
-    "yoe": 5.75,
+    "yoe": 5.8,
     "base": 64,
     "total": 132
   },
@@ -22025,7 +22025,7 @@
     "location": "Bengaluru",
     "company": "Uber",
     "role": "SSE",
-    "yoe": 5.75,
+    "yoe": 5.8,
     "base": 73.5,
     "total": 139
   },
@@ -22135,7 +22135,7 @@
     "location": "Bengaluru",
     "company": "Visa Inc.",
     "role": "SDE 1",
-    "yoe": 1.75,
+    "yoe": 1.8,
     "base": 17,
     "total": 23
   },
@@ -22465,7 +22465,7 @@
     "location": "",
     "company": "Walmart",
     "role": "SSE",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 22,
     "total": 30.95
   },
@@ -22475,7 +22475,7 @@
     "location": "Gurugram",
     "company": "Tata 1Mg",
     "role": "SDE 1",
-    "yoe": 1.08,
+    "yoe": 1.1,
     "base": 11,
     "total": 12
   },
@@ -22495,7 +22495,7 @@
     "location": "Hyderabad",
     "company": "Qualcomm",
     "role": "SDE 1",
-    "yoe": 0.42,
+    "yoe": 0.4,
     "base": 16.5,
     "total": 25
   },
@@ -22905,7 +22905,7 @@
     "location": "Bengaluru",
     "company": "Slice",
     "role": "SDE 1",
-    "yoe": 1.67,
+    "yoe": 1.7,
     "base": 24,
     "total": 30
   },
@@ -23065,7 +23065,7 @@
     "location": "Bengaluru",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 1.08,
+    "yoe": 1.1,
     "base": 19.17,
     "total": 23.06
   },
@@ -23095,7 +23095,7 @@
     "location": "Bengaluru",
     "company": "BitGo",
     "role": "SSE",
-    "yoe": 4.75,
+    "yoe": 4.8,
     "base": 40,
     "total": 46
   },
@@ -23105,7 +23105,7 @@
     "location": "Bengaluru",
     "company": "Amazon",
     "role": "SDE 2",
-    "yoe": 2.42,
+    "yoe": 2.4,
     "base": 42,
     "total": 65.5
   },
@@ -23155,7 +23155,7 @@
     "location": "Bengaluru",
     "company": "OpenText",
     "role": "SSE",
-    "yoe": 5.75,
+    "yoe": 5.8,
     "base": 28,
     "total": null
   },
@@ -23165,7 +23165,7 @@
     "location": "Bengaluru",
     "company": "Cognizant",
     "role": "SSE",
-    "yoe": 5.75,
+    "yoe": 5.8,
     "base": 29,
     "total": 32
   },
@@ -23295,7 +23295,7 @@
     "location": "",
     "company": "Walmart",
     "role": "SSE",
-    "yoe": 2.75,
+    "yoe": 2.8,
     "base": 19.91,
     "total": 28.43
   },
@@ -23305,7 +23305,7 @@
     "location": "",
     "company": "Goldman Sachs",
     "role": "VP",
-    "yoe": 6.67,
+    "yoe": 6.7,
     "base": 54,
     "total": 74
   },
@@ -23315,7 +23315,7 @@
     "location": "",
     "company": "Okta",
     "role": "Staff Engineer",
-    "yoe": 6.67,
+    "yoe": 6.7,
     "base": 57,
     "total": 77.25
   },
@@ -23345,7 +23345,7 @@
     "location": "Bengaluru",
     "company": "British Telecom Group Bt Group",
     "role": "Data Scientist",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 18.5,
     "total": 21.75
   },
@@ -23365,7 +23365,7 @@
     "location": "Bengaluru",
     "company": "Kinara Capital",
     "role": "Senior Data Scientist",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 21.6,
     "total": 26.82
   },
@@ -23375,7 +23375,7 @@
     "location": "Bengaluru",
     "company": "Citi",
     "role": "Senior Data Scientist",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 24.5,
     "total": 27
   },
@@ -23435,7 +23435,7 @@
     "location": "",
     "company": "Goldman Sachs",
     "role": "SDE 1",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 32,
     "total": 42
   },
@@ -23445,7 +23445,7 @@
     "location": "",
     "company": "Expedia",
     "role": "SDE 2",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 31,
     "total": 41
   },
@@ -23455,7 +23455,7 @@
     "location": "",
     "company": "American Express",
     "role": "SDE 2",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 28.6,
     "total": 33.7
   },
@@ -23465,7 +23465,7 @@
     "location": "",
     "company": "Walmart",
     "role": "SSE",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 24.5,
     "total": 31.5
   },
@@ -23475,7 +23475,7 @@
     "location": "",
     "company": "Blackline",
     "role": "SDE",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 30,
     "total": 32.4
   },
@@ -23585,7 +23585,7 @@
     "location": "Chennai",
     "company": "Tekion",
     "role": "SDE",
-    "yoe": 0.8333333333,
+    "yoe": 0.8,
     "base": 14,
     "total": 14
   },
@@ -23625,7 +23625,7 @@
     "location": "Bengaluru",
     "company": "Fractal",
     "role": "AI Engineer",
-    "yoe": 1.75,
+    "yoe": 1.8,
     "base": 27.27,
     "total": 30
   },
@@ -23775,7 +23775,7 @@
     "location": "Pune",
     "company": "Avalara",
     "role": "SDE 2",
-    "yoe": 3.75,
+    "yoe": 3.8,
     "base": 33,
     "total": 40.3
   },
@@ -23785,7 +23785,7 @@
     "location": "Bengaluru",
     "company": "Games24X7",
     "role": "SDE 1",
-    "yoe": 1.58,
+    "yoe": 1.6,
     "base": 23,
     "total": 27
   },
@@ -23795,7 +23795,7 @@
     "location": "Bengaluru",
     "company": "Tekion",
     "role": "SDE 1",
-    "yoe": 1.58,
+    "yoe": 1.6,
     "base": 25,
     "total": 47
   },
@@ -23825,7 +23825,7 @@
     "location": "Pune",
     "company": "Guidepoint",
     "role": "SDE 2",
-    "yoe": 5.33,
+    "yoe": 5.3,
     "base": 32,
     "total": 37
   },
@@ -23835,7 +23835,7 @@
     "location": "Hyderabad",
     "company": "Amazon",
     "role": "SDE 2",
-    "yoe": 6.67,
+    "yoe": 6.7,
     "base": 42,
     "total": 60
   },
@@ -24045,7 +24045,7 @@
     "location": "Chennai",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 0.67,
+    "yoe": 0.7,
     "base": 19.17,
     "total": 28
   },
@@ -24055,7 +24055,7 @@
     "location": "Chennai",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 0.67,
+    "yoe": 0.7,
     "base": 19.17,
     "total": 28.0
   },
@@ -24155,7 +24155,7 @@
     "location": "Bengaluru",
     "company": "CoinDCX",
     "role": "SSE",
-    "yoe": 3.25,
+    "yoe": 3.2,
     "base": 30,
     "total": 30
   },
@@ -24165,7 +24165,7 @@
     "location": "",
     "company": "Goldman Sachs",
     "role": "Associate",
-    "yoe": 2.75,
+    "yoe": 2.8,
     "base": 25,
     "total": 31
   },
@@ -24275,7 +24275,7 @@
     "location": "Hyderabad",
     "company": "Microsoft",
     "role": "SDE 2",
-    "yoe": 4.08,
+    "yoe": 4.1,
     "base": 33,
     "total": 45.0
   },
@@ -24285,7 +24285,7 @@
     "location": "Bengaluru",
     "company": "Allen",
     "role": "SDE 2",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 30.8,
     "total": 33.8
   },
@@ -24295,7 +24295,7 @@
     "location": "Bengaluru",
     "company": "Super.money",
     "role": "SDE 2",
-    "yoe": 2.67,
+    "yoe": 2.7,
     "base": 34.8,
     "total": 37.8
   },
@@ -24305,7 +24305,7 @@
     "location": "Bengaluru",
     "company": "Visa",
     "role": "SDE 1",
-    "yoe": 1.92,
+    "yoe": 1.9,
     "base": 17,
     "total": 20
   },
@@ -24315,7 +24315,7 @@
     "location": "Gurugram",
     "company": "Blinkit",
     "role": "SDE 1",
-    "yoe": 1.67,
+    "yoe": 1.7,
     "base": 27,
     "total": 37
   },
@@ -24325,7 +24325,7 @@
     "location": "Bengaluru",
     "company": "Zeta",
     "role": "SDE 2",
-    "yoe": 1.67,
+    "yoe": 1.7,
     "base": 33,
     "total": 37.85
   },
@@ -24335,7 +24335,7 @@
     "location": "Bengaluru",
     "company": "ShareChat",
     "role": "SDE",
-    "yoe": 1.67,
+    "yoe": 1.7,
     "base": 27,
     "total": 37.45
   },
@@ -24445,7 +24445,7 @@
     "location": "Bengaluru",
     "company": "Visa",
     "role": "SDE 1",
-    "yoe": 1.67,
+    "yoe": 1.7,
     "base": 20,
     "total": 20.0
   },
@@ -24615,7 +24615,7 @@
     "location": "Bengaluru",
     "company": "Walmart",
     "role": "SDE 3",
-    "yoe": 2.83,
+    "yoe": 2.8,
     "base": 23.6,
     "total": 33.6
   },
@@ -24625,7 +24625,7 @@
     "location": "Bengaluru",
     "company": "Zeta",
     "role": "SDE 2",
-    "yoe": 2.83,
+    "yoe": 2.8,
     "base": 32,
     "total": 35.8
   },
@@ -24765,7 +24765,7 @@
     "location": "Gurugram",
     "company": "Blinkit",
     "role": "SDE 2",
-    "yoe": 2.58,
+    "yoe": 2.6,
     "base": 34,
     "total": 45
   },
@@ -25225,7 +25225,7 @@
     "location": "",
     "company": "Oracle",
     "role": "SSE",
-    "yoe": 7.11,
+    "yoe": 7.1,
     "base": 33,
     "total": 33
   },
@@ -25325,7 +25325,7 @@
     "location": "Bengaluru",
     "company": "PhonePe",
     "role": "SDE 1",
-    "yoe": 0.58,
+    "yoe": 0.6,
     "base": 20,
     "total": 25
   },
@@ -25405,7 +25405,7 @@
     "location": "Gurugram",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 0.67,
+    "yoe": 0.7,
     "base": 19.17,
     "total": 47.88
   },
@@ -25965,7 +25965,7 @@
     "location": "Bengaluru",
     "company": "Google",
     "role": "SDE 2",
-    "yoe": 2.75,
+    "yoe": 2.8,
     "base": 35,
     "total": 80
   },
@@ -26415,7 +26415,7 @@
     "location": "Bengaluru",
     "company": "Groww",
     "role": "SDE",
-    "yoe": 2.75,
+    "yoe": 2.8,
     "base": 41,
     "total": 49.6
   },
@@ -26585,7 +26585,7 @@
     "location": "Bengaluru",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 0.58,
+    "yoe": 0.6,
     "base": 19.17,
     "total": 25
   },
@@ -26885,7 +26885,7 @@
     "location": "",
     "company": "Amazon",
     "role": "SDE",
-    "yoe": 0.67,
+    "yoe": 0.7,
     "base": 19.17,
     "total": 32.64
   },
@@ -27585,7 +27585,7 @@
     "location": "Gurugram",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 0.67,
+    "yoe": 0.7,
     "base": 19.17,
     "total": 46.3
   },
@@ -27675,7 +27675,7 @@
     "location": "Gurugram",
     "company": "Acuity Knowledge Partner",
     "role": "Associate",
-    "yoe": 1.67,
+    "yoe": 1.7,
     "base": 17,
     "total": 18.7
   },
@@ -27695,7 +27695,7 @@
     "location": "",
     "company": "Blinkit",
     "role": "SDE 2",
-    "yoe": 0.67,
+    "yoe": 0.7,
     "base": 24,
     "total": 24.0
   },
@@ -27705,7 +27705,7 @@
     "location": "",
     "company": "Amazon",
     "role": "SDE 2",
-    "yoe": 0.67,
+    "yoe": 0.7,
     "base": 19.17,
     "total": 25.71
   },
@@ -28135,7 +28135,7 @@
     "location": "Pune",
     "company": "ReliaQuest",
     "role": "SSE",
-    "yoe": 6.17,
+    "yoe": 6.2,
     "base": 32,
     "total": 35.2
   },
@@ -28755,7 +28755,7 @@
     "location": "Bengaluru",
     "company": "Amazon",
     "role": "SDE 1",
-    "yoe": 1.42,
+    "yoe": 1.4,
     "base": 21.5,
     "total": 50.5
   },
