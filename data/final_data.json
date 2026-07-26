@@ -1,5 +1,155 @@
 [
   {
+    "id": 8420639,
+    "date": "2026-07-26T04:57:05.975272+00:00",
+    "location": "",
+    "company": "Target",
+    "role": "SSE",
+    "yoe": 6,
+    "base": 49,
+    "total": 70
+  },
+  {
+    "id": 8419542,
+    "date": "2026-07-25T15:01:28.994612+00:00",
+    "location": "Hyderabad",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 3.4167,
+    "base": 43,
+    "total": 64
+  },
+  {
+    "id": 8419238,
+    "date": "2026-07-25T12:12:34.668212+00:00",
+    "location": "Hyderabad",
+    "company": "Optum",
+    "role": "SSE",
+    "yoe": 1.7,
+    "base": 16.87,
+    "total": 17.68
+  },
+  {
+    "id": 8419238,
+    "date": "2026-07-25T12:12:34.668212+00:00",
+    "location": "Bengaluru",
+    "company": "LeadSquared",
+    "role": "SSE",
+    "yoe": 1.7,
+    "base": 20,
+    "total": 21
+  },
+  {
+    "id": 8418718,
+    "date": "2026-07-25T07:35:47.337356+00:00",
+    "location": "Hyderabad",
+    "company": "Microsoft",
+    "role": "SDE 2",
+    "yoe": 4,
+    "base": 40,
+    "total": 70
+  },
+  {
+    "id": 8417779,
+    "date": "2026-07-24T18:54:17.810107+00:00",
+    "location": "Bengaluru",
+    "company": "NetApp",
+    "role": "MTS 2",
+    "yoe": 3,
+    "base": 27,
+    "total": 34
+  },
+  {
+    "id": 8417697,
+    "date": "2026-07-24T18:06:07.991664+00:00",
+    "location": "",
+    "company": "Accenture",
+    "role": "SDE 2",
+    "yoe": 1,
+    "base": 8.5,
+    "total": 10.3
+  },
+  {
+    "id": 8417327,
+    "date": "2026-07-24T14:51:53.582836+00:00",
+    "location": "",
+    "company": "SPAN.IO",
+    "role": "N/A",
+    "yoe": 1.6667,
+    "base": 30,
+    "total": 30
+  },
+  {
+    "id": 8417264,
+    "date": "2026-07-24T14:12:05.079108+00:00",
+    "location": "Bengaluru",
+    "company": "Five9",
+    "role": "Senior Data Engineer",
+    "yoe": 4,
+    "base": null,
+    "total": 40
+  },
+  {
+    "id": 8416842,
+    "date": "2026-07-24T09:55:28.107143+00:00",
+    "location": "Bengaluru",
+    "company": "Oracle",
+    "role": "SMTS",
+    "yoe": 4,
+    "base": 32,
+    "total": 48
+  },
+  {
+    "id": 8416805,
+    "date": "2026-07-24T09:32:01.268684+00:00",
+    "location": "Bengaluru",
+    "company": "JPMorgan Chase",
+    "role": "SSE",
+    "yoe": 8,
+    "base": 36.5,
+    "total": 40.9
+  },
+  {
+    "id": 8415866,
+    "date": "2026-07-23T19:01:28.983163+00:00",
+    "location": "",
+    "company": "Capillary Technologies",
+    "role": "SDE 2",
+    "yoe": 4,
+    "base": 25,
+    "total": 26
+  },
+  {
+    "id": 8415827,
+    "date": "2026-07-23T18:35:55.646220+00:00",
+    "location": "",
+    "company": "D. E. Shaw",
+    "role": "Member Tech",
+    "yoe": null,
+    "base": 34,
+    "total": 50
+  },
+  {
+    "id": 8413592,
+    "date": "2026-07-22T17:31:54.466950+00:00",
+    "location": "",
+    "company": "Groww",
+    "role": "N/A",
+    "yoe": null,
+    "base": 18,
+    "total": 26
+  },
+  {
+    "id": 8408728,
+    "date": "2026-07-20T07:45:30.975679+00:00",
+    "location": "India",
+    "company": "Palo Alto Networks",
+    "role": "Senior Staff IT Software Engineer",
+    "yoe": 9,
+    "base": 37,
+    "total": 56.65
+  },
+  {
     "id": 8403766,
     "date": "2026-07-17T18:43:00.135626+00:00",
     "location": "Bengaluru",
@@ -9103,7 +9253,7 @@
     "id": 7327128,
     "date": "2025-11-04T19:45:56.232232+00:00",
     "location": "",
-    "company": "Leadsquared",
+    "company": "LeadSquared",
     "role": "SDE 2",
     "yoe": 2.5,
     "base": 25.5,
