@@ -1,12 +1,28 @@
-## leetcode compensation
+<div align="center">
 
-[https://kuutsav.github.io/leetcode-compensation/](https://kuutsav.github.io/leetcode-compensation/)
+<a href="https://0xku.github.io/leetcode-compensation/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png" />
+    <img src="assets/banner-light.png" alt="Leetcode Compensation dashboard showing software engineer salary data in India" width="100%" />
+  </picture>
+</a>
 
-A tool that helps you find **Software Engineer Salary in India** by:
+<br />
+<br />
 
-- Fetching compensation data from Leetcode forums.
-- Updating regularly through GitHub action PRs.
-- Using LLMs for parsing and sanitizing structured data from posts, followed by aggregation.
+<a href="https://www.python.org/downloads/release/python-3130/"><img alt="Python" src="https://img.shields.io/badge/python-3.13%2B-3776AB?style=flat-square" /></a>
+<a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square" /></a>
+<a href="https://0xku.github.io/leetcode-compensation/"><img alt="Dashboard" src="https://img.shields.io/badge/dashboard-live-286983?style=flat-square" /></a>
+<a href="./data/final_data.json"><img alt="Data" src="https://img.shields.io/badge/data-json-907aa9?style=flat-square" /></a>
+
+## Leetcode Compensation
+
+</div>
+
+***[Software engineer salaries in India](https://0xku.github.io/leetcode-compensation/), parsed from Leetcode compensation posts and refreshed automatically.***
+
+Leetcode Compensation fetches salary posts from Leetcode discussion forums, parses and normalizes them into structured data using LLMs, and presents everything in a filterable dashboard. Data stays fresh through automated GitHub Action PRs that sync new posts on a regular cadence.
 
 ## Getting Started
 
@@ -18,23 +34,46 @@ uv sync  # Install all dependencies from pyproject.toml
 
 ## Updating Data
 
-The project uses **LM Studio** by default with the `openai/gpt-oss-20b` model for:
+The project uses **LM Studio** by default (`LLM_PROVIDER=lm_studio`) with the `openai/gpt-oss-20b` model for:
 
 - Parsing salaries, years of experience (YOE), and other compensation details from posts
 - Normalizing fields like companies, roles, and locations into structured format
 
-Make sure you have:
-
-- [LM Studio](https://lmstudio.ai/) installed and running
-- The `openai/gpt-oss-20b` model downloaded and loaded
-- Server running on `http://localhost:1234`
-
-Alternatively, you can use GitHub Models by setting `Provider.GITHUB_MODELS` and the `GITHUB_TOKEN` environment variable.
-
-To sync and fetch new compensation data:
+### Run sync
 
 ```bash
 uv run leetcomp-sync
+```
+
+### Choose provider/model at runtime
+
+```bash
+uv run leetcomp-sync --provider llama_server --model unsloth/Qwen3.5-9B-GGUF
+```
+
+Supported providers:
+
+- `lm_studio` (default)
+- `llama_server` (also supports alias `llama-server`)
+- `github_models` (requires `GITHUB_TOKEN`)
+- `zai` (requires `ZAI_API_KEY`)
+
+Optional env overrides:
+
+- `LLM_PROVIDER`
+- `LLM_MODEL`
+- `LLM_BASE_URL`
+
+### Example: llama.cpp server
+
+```bash
+/opt/homebrew/bin/llama-server \
+  --hf-repo unsloth/Qwen3.5-9B-GGUF \
+  --hf-file Qwen3.5-9B-Q4_K_M.gguf \
+  --port 5000 \
+  -c 65536
+
+uv run leetcomp-sync --provider llama-server --model unsloth/Qwen3.5-9B-GGUF
 ```
 
 ## LLM Assistance
