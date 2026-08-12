@@ -1,5 +1,325 @@
 [
   {
+    "id": 8454814,
+    "date": "2026-08-11T14:17:21.394456+00:00",
+    "location": "",
+    "company": "Walmart",
+    "role": "SSE",
+    "yoe": 4,
+    "base": 20.95,
+    "total": 34.46
+  },
+  {
+    "id": 8453500,
+    "date": "2026-08-11T00:42:22.409525+00:00",
+    "location": "Pune",
+    "company": "OpenGov",
+    "role": "SDE 1",
+    "yoe": 0,
+    "base": 19.06,
+    "total": 22.15
+  },
+  {
+    "id": 8452295,
+    "date": "2026-08-10T08:44:18.824711+00:00",
+    "location": "",
+    "company": "Mastercard",
+    "role": "SDE 2",
+    "yoe": null,
+    "base": 25,
+    "total": 27.75
+  },
+  {
+    "id": 8452023,
+    "date": "2026-08-10T05:55:22.717919+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 3,
+    "base": 46,
+    "total": 55.47
+  },
+  {
+    "id": 8448556,
+    "date": "2026-08-08T09:26:39.539802+00:00",
+    "location": "Bengaluru",
+    "company": "Accenture",
+    "role": "Senior Analyst",
+    "yoe": 3.7,
+    "base": 15.4,
+    "total": 18.63
+  },
+  {
+    "id": 8448320,
+    "date": "2026-08-08T06:37:12.043799+00:00",
+    "location": "Hyderabad",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 3,
+    "base": 44,
+    "total": 51.18
+  },
+  {
+    "id": 8447139,
+    "date": "2026-08-07T13:35:18.540054+00:00",
+    "location": "Pune",
+    "company": "Zendesk",
+    "role": "SDE 1",
+    "yoe": 0,
+    "base": 23,
+    "total": 27.24
+  },
+  {
+    "id": 8446678,
+    "date": "2026-08-07T08:00:25.762727+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "SSE",
+    "yoe": 14,
+    "base": 80.68,
+    "total": 105.74
+  },
+  {
+    "id": 8446678,
+    "date": "2026-08-07T08:00:25.762727+00:00",
+    "location": "",
+    "company": "AlphaSense",
+    "role": "Staff Engineer",
+    "yoe": 14,
+    "base": 103,
+    "total": null
+  },
+  {
+    "id": 8446629,
+    "date": "2026-08-07T07:25:59.676070+00:00",
+    "location": "Bengaluru",
+    "company": "Okta",
+    "role": "Staff Engineer",
+    "yoe": 14,
+    "base": 68,
+    "total": 90
+  },
+  {
+    "id": 8446629,
+    "date": "2026-08-07T07:25:59.676070+00:00",
+    "location": "Bengaluru",
+    "company": "Omnissa",
+    "role": "Staff Engineer",
+    "yoe": 14,
+    "base": 84,
+    "total": 100
+  },
+  {
+    "id": 8445135,
+    "date": "2026-08-06T13:13:51.741989+00:00",
+    "location": "Mumbai",
+    "company": "BlackRock",
+    "role": "SDE",
+    "yoe": 4,
+    "base": 25,
+    "total": 30
+  },
+  {
+    "id": 8444211,
+    "date": "2026-08-06T06:10:51.574659+00:00",
+    "location": "Bengaluru",
+    "company": "DigitalOcean",
+    "role": "Lead Engineer",
+    "yoe": 12,
+    "base": null,
+    "total": 80
+  },
+  {
+    "id": 8443004,
+    "date": "2026-08-05T15:32:44.968539+00:00",
+    "location": "Bengaluru",
+    "company": "Wells Fargo",
+    "role": "VP",
+    "yoe": 11,
+    "base": 53,
+    "total": 58
+  },
+  {
+    "id": 8442707,
+    "date": "2026-08-05T12:13:55.670993+00:00",
+    "location": "Hyderabad",
+    "company": "Bristol Myers Squibb",
+    "role": "SSE",
+    "yoe": 5,
+    "base": 30.17,
+    "total": 36.32
+  },
+  {
+    "id": 8442707,
+    "date": "2026-08-05T12:13:55.670993+00:00",
+    "location": "Bengaluru",
+    "company": "Cargill",
+    "role": "ML Engineer",
+    "yoe": 5,
+    "base": 30,
+    "total": 37.47
+  },
+  {
+    "id": 8442577,
+    "date": "2026-08-05T10:45:11.785057+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "Data Scientist",
+    "yoe": 4,
+    "base": 32.5,
+    "total": 64.25
+  },
+  {
+    "id": 8442405,
+    "date": "2026-08-05T08:46:34.017239+00:00",
+    "location": "Bengaluru",
+    "company": "Target",
+    "role": "SDE 2",
+    "yoe": 3.1,
+    "base": 23,
+    "total": 24.6
+  },
+  {
+    "id": 8434675,
+    "date": "2026-08-01T13:22:44.558146+00:00",
+    "location": "",
+    "company": "Salesforce",
+    "role": "MTS",
+    "yoe": 3,
+    "base": 27.4,
+    "total": 41
+  },
+  {
+    "id": 8434675,
+    "date": "2026-08-01T13:22:44.558146+00:00",
+    "location": "",
+    "company": "Walmart",
+    "role": "SSE",
+    "yoe": 3,
+    "base": 28,
+    "total": 41
+  },
+  {
+    "id": 8434655,
+    "date": "2026-08-01T13:05:48.666823+00:00",
+    "location": "Bengaluru",
+    "company": "Microsoft",
+    "role": "SDE 2",
+    "yoe": 4,
+    "base": 32.95,
+    "total": 52
+  },
+  {
+    "id": 8434399,
+    "date": "2026-08-01T10:16:29.843232+00:00",
+    "location": "",
+    "company": "Evalueserve",
+    "role": "Consultant",
+    "yoe": 5.5,
+    "base": 16,
+    "total": null
+  },
+  {
+    "id": 8433486,
+    "date": "2026-07-31T20:03:06.789351+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "QAE 2",
+    "yoe": 6.5,
+    "base": 27,
+    "total": 33.53
+  },
+  {
+    "id": 8432436,
+    "date": "2026-07-31T09:31:57.029896+00:00",
+    "location": "Bengaluru",
+    "company": "Albertsons",
+    "role": "Staff Engineer",
+    "yoe": 11,
+    "base": 50,
+    "total": 55
+  },
+  {
+    "id": 8428482,
+    "date": "2026-07-29T14:28:34.021006+00:00",
+    "location": "Hyderabad",
+    "company": "Keka HR",
+    "role": "SSE",
+    "yoe": 4,
+    "base": 40,
+    "total": null
+  },
+  {
+    "id": 8428482,
+    "date": "2026-07-29T14:28:34.021006+00:00",
+    "location": "Bengaluru",
+    "company": "Blink Health",
+    "role": "SSE",
+    "yoe": 4,
+    "base": 51,
+    "total": null
+  },
+  {
+    "id": 8427819,
+    "date": "2026-07-29T07:42:46.599048+00:00",
+    "location": "Hyderabad",
+    "company": "Wells Fargo",
+    "role": "Program Associate",
+    "yoe": 0,
+    "base": 16,
+    "total": 27
+  },
+  {
+    "id": 8426788,
+    "date": "2026-07-28T17:02:09.189783+00:00",
+    "location": "Navi Mumbai",
+    "company": "Jio Platforms",
+    "role": "SDE",
+    "yoe": 4,
+    "base": 21.7,
+    "total": 25
+  },
+  {
+    "id": 8426788,
+    "date": "2026-07-28T17:02:09.189783+00:00",
+    "location": "Hyderabad",
+    "company": "GE Vernova",
+    "role": "Controls Engineer",
+    "yoe": 4,
+    "base": 17,
+    "total": 17.85
+  },
+  {
+    "id": 8425317,
+    "date": "2026-07-28T05:25:48.707481+00:00",
+    "location": "Pune",
+    "company": "Nutanix",
+    "role": "MTS 3",
+    "yoe": 4.2,
+    "base": 43,
+    "total": 54.88
+  },
+  {
+    "id": 8425317,
+    "date": "2026-07-28T05:25:48.707481+00:00",
+    "location": "Bengaluru",
+    "company": "EarnIn",
+    "role": "SDE 2",
+    "yoe": 4.2,
+    "base": 53,
+    "total": 67.25
+  },
+  {
+    "id": 8424494,
+    "date": "2026-07-27T17:30:26.999920+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "Data Engineer 2",
+    "yoe": 3,
+    "base": 38,
+    "total": 53
+  },
+  {
     "id": 8420639,
     "date": "2026-07-26T04:57:05.975272+00:00",
     "location": "",
@@ -10703,7 +11023,7 @@
     "id": 7262670,
     "date": "2025-10-09T20:07:12.614468+00:00",
     "location": "Bengaluru",
-    "company": "Earnin",
+    "company": "EarnIn",
     "role": "N/A",
     "yoe": 3.5,
     "base": 48,
@@ -22913,7 +23233,7 @@
     "id": 6579120,
     "date": "2025-03-25T17:44:15.464863+00:00",
     "location": "Hyderabad",
-    "company": "Ge Vernova",
+    "company": "GE Vernova",
     "role": "N/A",
     "yoe": 4.6,
     "base": 16.5,
